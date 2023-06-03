@@ -1,45 +1,32 @@
-<a name="readme-top"></a>
+
 <div align="center">
 
   ![Project Banner](readme_assets/readme_banner.png#gh-dark-mode-only)
   ![Project Banner](readme_assets/readme_banner-light.png#gh-light-mode-only)
 
-  <h1>Three.js 3D Portfolio</h1>
+  <h1>3D Portfolio</h1>
   
   <p>
-    Three.js 3D Portfolio is a modern UI/UX and functional Developer Portfolio Web built with React & Three.js
+    A modern UI/UX and functional Developer Portfolio Web built with React & Three.js.
   </p>
 
 <!-- Badges -->
 <p>
-  <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/ladunjexa/Threejs_3D_Portfolio" alt="contributors" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/github/last-commit/ladunjexa/Threejs_3D_Portfolio" alt="last update" />
-  </a>
-  <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/network/members">
-    <img src="https://img.shields.io/github/forks/ladunjexa/Threejs_3D_Portfolio" alt="forks" />
-  </a>
-  <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/stargazers">
-    <img src="https://img.shields.io/github/stars/ladunjexa/Threejs_3D_Portfolio" alt="stars" />
-  </a>
-  <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/issues/">
-    <img src="https://img.shields.io/github/issues/ladunjexa/Threejs_3D_Portfolio" alt="open issues" />
-  </a>
-  <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/ladunjexa/Threejs_3D_Portfolio.svg" alt="license" />
-  </a>
+  [![Last Commit](https://img.shields.io/github/last-commit/sachinpandeygurh/My-reactportfolio-Threejs-3D-Portfolio-main)](https://github.com/sachinpandeygurh/My-reactportfolio-Threejs-3D-Portfolio-main)
+  [![Forks](https://img.shields.io/github/forks/sachinpandeygurh/My-reactportfolio-Threejs-3D-Portfolio-main)](https://github.com/sachinpandeygurh/My-reactportfolio-Threejs-3D-Portfolio-main/network/members)
+  [![Stars](https://img.shields.io/github/stars/sachinpandeygurh/My-reactportfolio-Threejs-3D-Portfolio-main)](https://github.com/sachinpandeygurh/My-reactportfolio-Threejs-3D-Portfolio-main/stargazers)
+  [![Open Issues](https://img.shields.io/github/issues/sachinpandeygurh/My-reactportfolio-Threejs-3D-Portfolio-main)](https://github.com/sachinpandeygurh/My-reactportfolio-Threejs-3D-Portfolio-main/issues/)
+  [![License](https://img.shields.io/github/license/sachinpandeygurh/My-reactportfolio-Threejs-3D-Portfolio-main.svg)](https://github.com/sachinpandeygurh/My-reactportfolio-Threejs-3D-Portfolio-main/blob/main/LICENSE)
 </p>
    
  <h4>
-    <a href="https://threejs-3-d-portfolio.vercel.app/">View Demo</a>
+    <a href="https://sachinpandey.online">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio">Documentation</a>
+    <a href="https://github.com/sachinpandeygurh/My-reactportfolio-Threejs-3D-Portfolio-main">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/issues/">Report Bug</a>
+    <a href="https://github.com/sachinpandeygurh/My-reactportfolio-Threejs-3D-Portfolio-main/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/issues/">Request Feature</a>
+    <a href="https://github.com/sachinpandeygurh/My-reactportfolio-Threejs-3D-Portfolio-main/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -71,42 +58,38 @@
 ## :star2: About the Project
 
 <div align="center">
-  <img src="readme_assets/3d-portfolio.png" height="auto" width="90%"/>
+  <
+
+img src="readme_assets/screenshot.png" alt="Project Screenshot" width="600px">
 </div>
 
-<br />
+The 3D Portfolio is a modern and visually appealing developer portfolio web application built with React and Three.js. It provides an immersive 3D experience to showcase your skills and projects to potential employers or clients.
 
-This repository houses an well-designed and functional Developer Portfolio Website consisting Navbar, Hero, Overview, Work Experience, Technologies, Projects, Testimonials and Contact sections built with React & Three.js using TailwindCSS ⏭
-
-<!-- Folder Structure -->
 ### :bangbang: Folder Structure
 
-Here is the folder structure of 3D-Portfolio.
-```bash
-Threejs_3D_Portfolio/
-|- public/
-|- src/
-  |-- assets/
-  |-- components/
-  |-- constants/
-  |-- hoc/
-  |-- utils/
-  |-- App.jsx
-  |-- index.css
-  |-- main.jsx
-  |-- styles.js
-|- postcss.config.cjs
-|- tailwind.config.cjs
-|- vite.config.js
 ```
-<br />
+My-reactportfolio-Threejs-3D-Portfolio-main/
+  ├── public/
+  ├── src/
+  │   ├── components/
+  │   ├── pages/
+  │   ├── styles/
+  │   ├── App.js
+  │   └── index.js
+  ├── .gitignore
+  ├── LICENSE
+  ├── package.json
+  └── README.md
+```
 
-<!-- TechStack -->
 ### :space_invader: Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,threejs)](https://skillicons.dev)
+The project is built using the following technologies:
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- JavaScript
+- React
+- Three.js
+- Tailwind CSS
 
 <!-- Getting Started -->
 ## :toolbox: Getting Started
@@ -118,116 +101,85 @@ Threejs_3D_Portfolio/
 Download or clone this repo by using the link below:
 
 ```bash
- https://github.com/ladunjexa/Threejs_3D_Portfolio.git
+https://github.com/sachinpandeygurh/My-reactportfolio-Threejs-3D-Portfolio-main.git
 ```
 
 #### Step 2:
-
-3D-Portfolio using NPM (Node Package Manager), therefore, make sure that Node.js is installed by execute the following command in console:
+Make sure Node.js is installed by executing the following command in the console:
 
 ```bash
-  node -v
+node -v
 ```
 
 #### Step 3:
-
-At the main folder execute the following command in console to get the required dependencies:
+At the main folder, execute the following command in the console to install the required dependencies:
 
 ```bash
-  npm install
+npm install
 ```
 
 #### Step 4:
-
-At the main folder execute the following command in console to creates a build directory with a production build of 3d portfolio:
+At the main folder, execute the following command in the console to create a build directory with a production build of the 3D portfolio:
 
 ```bash
-  npm run build
+npm run build
 ```
 
 #### Step 5:
-
-At the main folder execute the following command in console to run the server:
+At the main folder, execute the following command in the console to run the server:
 
 ```bash
-  npm run start
+npm run start
 ```
 
 <!-- Run Locally -->
 ### :running: Run Locally
 
 #### Step 1:
-
-At the main folder execute the following command in console to get the required dependencies:
+At the main folder, execute the following command in the console to install the required dependencies:
 
 ```bash
-  npm install
+npm install
 ```
 
 #### Step 2:
-
-At the main folder execute the following command in console to run the development server:
+At the main folder, execute the following command in the console to run the development server:
 
 ```bash
-  npm run dev
+npm run dev
 ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Contributing -->
 ## :wave: Contributing
 
-<a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ladunjexa/Threejs_3D_Portfolio" />
-</a>
+[![Contributors](https://contrib.rocks/image?repo=sachinpandeygurh/My-reactportfolio-Threejs-3D-Portfolio-main)](https://github.com/sachinpandeygurh/My-reactportfolio-Threejs-3D-Portfolio-main/graphs/contributors)
 
+Contributions are always welcome! See [`contributing.md`](https://contributing.md/) for ways to get started.
 
-Contributions are always welcome!
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-See [`contributing.md`](https://contributing.md/) for ways to get started.
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+If you have a suggestion that would make this project better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
 
 <!-- License -->
 ## :warning: License
 
-Distributed under the MIT License. See [LICENSE.txt](https://github.com/ladunjexa/Threejs_3D_Portfolio/blob/main/LICENSE) for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Distributed under the MIT License. See [LICENSE](https://github.com/sachinpandeygurh/My-reactportfolio-Threejs-3D-Portfolio-main/blob/main/LICENSE) for more information.
 
 <!-- Contact -->
 ## :handshake: Contact
 
-Liron Abutbul - [@lironabutbul6](https://twitter.com/lironabutbul6) - [@ladunjexa](https://t.me/ladunjexa)
+Sachin Pandey - [sachingurh@gmail.com](mailto:sachingurh@gmail.com)
 
-Project Link: [https://github.com/ladunjexa/Threejs_3D_Portfolio](https://github.com/ladunjexa/Threejs_3D_Portfolio)
+Project Link: [https://github.com/sachinpandeygurh/My-reactportfolio-Threejs-3D-Portfolio-main](https://github.com/s
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+achinpandeygurh/My-reactportfolio-Threejs-3D-Portfolio-main)
 
-<!-- Acknowledgments -->
+<!-- Acknowledgements -->
 ## :gem: Acknowledgements
 
-This section used to mention useful resources and libraries that used in 3D Portfolio
+- [React](https://reactjs.org/)
+- [Three.js](https://threejs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
- - [Email JS](https://www.emailjs.com/)
- - [Framer Motion](https://www.framer.com/motion/)
- - [React Tilt](https://www.npmjs.com/package/react-tilt)
- - [React Vertical Timeline Component](https://www.npmjs.com/package/react-vertical-timeline-component)
- - #JSMastery
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<p align="center">
-<img src="https://github.com/ladunjexa/Threejs_3D_Portfolio/blob/main/public/logo.png" height="auto" width="10%" />
-</p>
+</div>
+```
