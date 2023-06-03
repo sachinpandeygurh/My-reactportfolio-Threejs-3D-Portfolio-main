@@ -72,9 +72,7 @@
 ## :star2: About the Project
 
 <div align="center">
-  <
-
-img src="readme_assets/screenshot.png" alt="Project Screenshot" width="600px">
+  <img src="readme_assets/screenshot.png" alt="Project Screenshot" width="600px">
 
 </div>
 
