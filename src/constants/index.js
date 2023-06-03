@@ -23,6 +23,12 @@ import {
   jobit,
   tripguide,
   threejs,
+  abhiyantriki,
+  reactlogo,
+  digitalMarketing,
+  reactBootstrap,
+  bootstrap,
+  Adobexd
 } from "../assets";
 
 export const navLinks = [
@@ -42,11 +48,11 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "UI Developer",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "React Developer",
     icon: mobile,
   },
   {
@@ -54,7 +60,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "SEO Expert",
     icon: creator,
   },
 ];
@@ -73,20 +79,8 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
-  },
-  {
     name: "React JS",
     icon: reactjs,
-  },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
-    name: "Tailwind CSS",
-    icon: tailwind,
   },
   {
     name: "Node JS",
@@ -101,164 +95,207 @@ const technologies = [
     icon: threejs,
   },
   {
+    name: "Redux Toolkit",
+    icon: redux,
+  },
+  {
+    name: "Tailwind CSS",
+    icon: tailwind,
+  },
+  {
+    name: "bootstrap",
+    icon: bootstrap,
+  },
+  
+  {
+    name: "reactBootstrap",
+    icon: reactBootstrap,
+  },
+  {
     name: "git",
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
+    name: "Adobexd",
+    icon: Adobexd,
   },
-  {
-    name: "docker",
-    icon: docker,
-  },
+ 
 ];
 
 const experiences = [
   {
-    title: "React.js Developer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    title: "Digital Marketing",
+    company_name: "Freelancing",
+    icon: digitalMarketing,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "Jan 2021 - Dec 2022",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Providing comprehensive digital marketing services to clients on a freelance basis.",
+      "Specializing in Search Engine Optimization (SEO), Pay Per Click Advertising (PPC), Content Marketing, Social Media Marketing, and Email Marketing.",
+      "Collaborating with web developers, designers, and other professionals as needed to execute digital marketing initiatives.",
+      "Staying up-to-date with the latest trends, tools, and best practices in digital marketing to deliver innovative solutions and maintain a competitive edge.",
+
+    ],
+  },
+  {
+    title: "UI Developer",
+    company_name: "Abhiyantriki Technology",
+    icon: abhiyantriki,
+    iconBg: "#383E56",
+    date: "Dec 2022 - May 2023",
+    points: [
+      "Developing and maintaining web applications using HTML, CSS, JavaScript and other related technologies.",
+      "Designing responsive websites with a focus on SEO-friendly practices.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
-    iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
-    points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
-    title: "Web Developer",
-    company_name: "Shopify",
-    icon: shopify,
+    title: "React Development",
+    company_name: "",
+    icon: reactlogo,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Present",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Aspiring to enhance my skills as a MERN Stack developer.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "I am proficient in handling APIs and Firebase",
+      "Ensuring code quality and maintainability through code reviews and writing clean, reusable, and modular code.",
+
     ],
   },
+  
   {
     title: "Full stack Developer",
     company_name: "Meta",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Learning",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developing and maintaining web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack.",
+    "Building user interfaces and interactive components using React.js.",
+    "Integrating front-end components with back-end services and APIs.",
+    "Developing RESTful APIs using Node.js and Express.js to enable seamless data flow between front-end and back-end.",
+    "Implementing state management solutions (e.g., Redux) to manage complex application states.",
+    "Keeping up-to-date with the latest trends and best practices in MERN stack development.",
+  
     ],
   },
 ];
 
 const testimonials = [
   {
-    testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    testimonial: "Skilled software developer, excels in UI Development, React, and Node.js.",
+    name: "Prabhu Pratap Tripathi",
+    designation: "Learning Entrepreneurship || Flutter Developer || Team Manager || Co-Founder",
+        company: "apps4all.in",
+    image: "https://media.licdn.com/dms/image/D4D03AQEO5isWWDreRQ/profile-displayphoto-shrink_400_400/0/1667458279049?e=1691020800&v=beta&t=ehYxwg7urUzNf6HBphK5d9TLpIhtVJZUAxE4GYsOruw",
   },
   {
-    testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    testimonial: "Talented and dedicated developer with expertise in UI Development and React",
+    name: "Abhishek Kumar",
+    designation: "MERN Stack Developer || Problem Solver|| DSA",
+    company: "leetcode 3.5⭐ - 750+ || geekforgeeks 450+",
+    image: "https://media.licdn.com/dms/image/C4D03AQF_Wrsf6Kl5rA/profile-displayphoto-shrink_400_400/0/1663959637120?e=1691020800&v=beta&t=WUT2BKSD1rf6YuZd6UBRfhaSQUJDx5R6m0wTyT4plW0",
   },
   {
-    testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    testimonial: "Highly skilled full-stack developer, known for problem-solving and UI Development expertise.",
+    name: "Pushpraj Paroha",
+    designation: "Full Stack Developer || Problem Solver",
+    company: "UIT Bhopal",
+    image: "https://media.licdn.com/dms/image/D4D35AQH4dqDa5rkQQQ/profile-framedphoto-shrink_400_400/0/1679949655628?e=1686427200&v=beta&t=54QquwoOBnkG6ObqHIJ24INgiLXY1X7Jx6agPycz6Go",
+  },
+  {
+    testimonial: "Sachin showcases strong problem-solving skills, dedication to learning, and active class participation.",
+    name: "Dr. Poonam Sinha",
+    designation: "Head of Electronics & Comm",
+    company: "UIT Barkatullah University Bhopal",
+    image: "https://media.licdn.com/dms/image/D5603AQFIoVDntMSsNA/profile-displayphoto-shrink_400_400/0/1675013590212?e=1691020800&v=beta&t=lKPtKd9mpXMxedtuMuzX6t0w8iLGuhFAGPtMnYDpAe4",
   },
 ];
 
+
 const projects = [
   {
-    name: "Car Rent",
+    name: "Alan AI News Application",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A React-based application that interacts with Alan AI to retrieve and read the latest news articles       using voice commands",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "Words-to-Numbers",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "Material U",
         color: "pink-text-gradient",
       },
+      {
+        name: "Alan AI SDK",
+        color: "green-text-gradient",
+      },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: 'https://camo.githubusercontent.com/81e1274d2dbf7078263f14671cd7ce7260c23fa023ea418f5051244a28b31b97/68747470733a2f2f73616368696e70616e646579677572682e6769746875622e696f2f416c616e2d6e6577732d6170706c69636174696f6e2f73732f6d7961707073637265656e73686f742e706e67',
+    source_code_link: "https://github.com/sachinpandeygurh/alan-ai-news-application",
   },
   {
-    name: "Job IT",
+    name: "Tic Tac Toe Game",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "This is a ReactJS-based Tic Tac Toe game. Two players take turns marking spaces in a 3x3 grid      with circles or crosses. The objective is to get three marks in a row, horizontally, vertically, or      diagonally to win",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Reactstrap",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "React Toastify",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/sachinpandeygurh/Tictactoe-Game",
   },
   {
-    name: "Trip Guide",
+    name: "GitHub Fireb App    ",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "User authentication with signup and sign-in functionality. Integration with GitHub APIs. Searching      GitHub usernames to view repositories, user information, and followers. Implementation of page not       found error handling",
     tags: [
       {
-        name: "nextjs",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "Firebase",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "GitHub APIs",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Axios",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "React Router",
+        color: "green-text-gradient",
+      },
+      {
+        name: "React Toastify",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/sachinpandeygurh/firebase-github-app",
   },
 ];
 

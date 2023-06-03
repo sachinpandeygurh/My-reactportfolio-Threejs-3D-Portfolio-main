@@ -12,34 +12,34 @@
 
 <!-- Badges -->
 <p>
-  <a href="https://github.com/sachin/Threejs_3D_Portfolio/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/sachin/Threejs_3D_Portfolio" alt="contributors" />
+  <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/ladunjexa/Threejs_3D_Portfolio" alt="contributors" />
   </a>
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/sachin/Threejs_3D_Portfolio" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/ladunjexa/Threejs_3D_Portfolio" alt="last update" />
   </a>
-  <a href="https://github.com/sachin/Threejs_3D_Portfolio/network/members">
-    <img src="https://img.shields.io/github/forks/sachin/Threejs_3D_Portfolio" alt="forks" />
+  <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/network/members">
+    <img src="https://img.shields.io/github/forks/ladunjexa/Threejs_3D_Portfolio" alt="forks" />
   </a>
-  <a href="https://github.com/sachin/Threejs_3D_Portfolio/stargazers">
-    <img src="https://img.shields.io/github/stars/sachin/Threejs_3D_Portfolio" alt="stars" />
+  <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/stargazers">
+    <img src="https://img.shields.io/github/stars/ladunjexa/Threejs_3D_Portfolio" alt="stars" />
   </a>
-  <a href="https://github.com/sachin/Threejs_3D_Portfolio/issues/">
-    <img src="https://img.shields.io/github/issues/sachin/Threejs_3D_Portfolio" alt="open issues" />
+  <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/issues/">
+    <img src="https://img.shields.io/github/issues/ladunjexa/Threejs_3D_Portfolio" alt="open issues" />
   </a>
-  <a href="https://github.com/sachin/Threejs_3D_Portfolio/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/sachin/Threejs_3D_Portfolio.svg" alt="license" />
+  <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/ladunjexa/Threejs_3D_Portfolio.svg" alt="license" />
   </a>
 </p>
    
  <h4>
     <a href="https://threejs-3-d-portfolio.vercel.app/">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/sachin/Threejs_3D_Portfolio">Documentation</a>
+    <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/sachin/Threejs_3D_Portfolio/issues/">Report Bug</a>
+    <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/sachin/Threejs_3D_Portfolio/issues/">Request Feature</a>
+    <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -118,7 +118,7 @@ Threejs_3D_Portfolio/
 Download or clone this repo by using the link below:
 
 ```bash
- https://github.com/sachin/Threejs_3D_Portfolio.git
+ https://github.com/ladunjexa/Threejs_3D_Portfolio.git
 ```
 
 #### Step 2:
@@ -177,8 +177,8 @@ At the main folder execute the following command in console to run the developme
 <!-- Contributing -->
 ## :wave: Contributing
 
-<a href="https://github.com/sachin/Threejs_3D_Portfolio/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sachin/Threejs_3D_Portfolio" />
+<a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ladunjexa/Threejs_3D_Portfolio" />
 </a>
 
 
@@ -202,16 +202,16 @@ Don't forget to give the project a star! Thanks again!
 <!-- License -->
 ## :warning: License
 
-Distributed under the MIT License. See [LICENSE.txt](https://github.com/sachin/Threejs_3D_Portfolio/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE.txt](https://github.com/ladunjexa/Threejs_3D_Portfolio/blob/main/LICENSE) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Contact -->
 ## :handshake: Contact
 
-sachin Abutbul - [@sachinabutbul6](https://twitter.com/sachinabutbul6) - [@sachin](https://t.me/sachin)
+Liron Abutbul - [@lironabutbul6](https://twitter.com/lironabutbul6) - [@ladunjexa](https://t.me/ladunjexa)
 
-Project Link: [https://github.com/sachin/Threejs_3D_Portfolio](https://github.com/sachin/Threejs_3D_Portfolio)
+Project Link: [https://github.com/ladunjexa/Threejs_3D_Portfolio](https://github.com/ladunjexa/Threejs_3D_Portfolio)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -229,5 +229,5 @@ This section used to mention useful resources and libraries that used in 3D Port
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="center">
-<img src="https://github.com/sachin/Threejs_3D_Portfolio/blob/main/public/logo.png" height="auto" width="10%" />
+<img src="https://github.com/ladunjexa/Threejs_3D_Portfolio/blob/main/public/logo.png" height="auto" width="10%" />
 </p>

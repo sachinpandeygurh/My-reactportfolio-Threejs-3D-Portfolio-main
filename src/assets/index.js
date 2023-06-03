@@ -25,6 +25,12 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import abhiyantriki from './company/abhiyantriki.png'
+import reactlogo from './company/react.png'
+import digitalMarketing from './company/seo.png'
+import reactBootstrap from './company/reactBootstrap.svg'
+import bootstrap from './company/bootstrap.png'
+import Adobexd from './company/Adobexd.png'
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -59,4 +65,10 @@ export {
   carrent,
   jobit,
   tripguide,
+  abhiyantriki,
+  reactlogo,
+  digitalMarketing,
+  reactBootstrap,
+  bootstrap,
+  Adobexd,
 };
