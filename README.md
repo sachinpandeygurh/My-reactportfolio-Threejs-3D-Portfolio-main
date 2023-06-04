@@ -72,7 +72,7 @@
 ## :star2: About the Project
 
 <div align="center">
-  <img src="readme_assets/screenshot.png" alt="Project Screenshot" width="600px">
+  <img src="https://camo.githubusercontent.com/6d4f39473933009174234d9834ad9588570914b518c25067e7ffc242c4aa2a08/68747470733a2f2f692e6962622e636f2f74625771794c682f33642d706f7274666f6c696f2e706e67" alt="Project Screenshot" width="600px">
 
 </div>
 
