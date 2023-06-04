@@ -62,7 +62,7 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src='https://avatars.githubusercontent.com/u/91916739?v=4' alt="logo" className="w-9 h-9 object-contain" />
+          <img src='https://avatars.githubusercontent.com/u/91916739?v=4' alt="logo" className="w-12 h-12 rounded-full object-contain" />
           <p className="text-white text-[18px] font-bold cursor-pointer flex ">
             Sachin pandey &nbsp;
             <span className="sm:block hidden"> | 3D Portfolio</span>

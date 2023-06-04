@@ -104,6 +104,9 @@ The project is built using the following technologies:
 - Three.js
 - Tailwind CSS
 
+### Creating the scene
+To actually be able to display anything with three.js, we need three things: **scene, camera and renderer**, so that we can render the scene with camera.
+
 <!-- Getting Started -->
 
 ## :toolbox: Getting Started
