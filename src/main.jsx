@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import Tilt from 'react-tilt';
+import { Tilt } from 'react-tilt';
 
 import App from "./App";
 import "./index.css";

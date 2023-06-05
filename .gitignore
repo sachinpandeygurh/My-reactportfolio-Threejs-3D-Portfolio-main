@@ -20,10 +20,10 @@ node_modules/
 *.iml
 
 # Ignore build output
-/build/
-/dist/
-/out/
-/.next/
+# /build/
+# /dist/
+# /out/
+# /.next/
 
 # Ignore environment-specific files
 .env
