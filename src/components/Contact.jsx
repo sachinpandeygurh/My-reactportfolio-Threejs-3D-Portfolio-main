@@ -7,6 +7,12 @@ import { EarthCanvas } from "./canvas";
 import { SectionWrapper } from "../hoc";
 import { slideIn } from "../utils/motion";
 
+    
+//template_ad23dyq
+//service_0p8zcz7
+//Public Key D6huF_I69JRd01TNp
+//Private Key XBM07XQndY1NlJLDuesV8
+
 const Contact = () => {
   const formRef = useRef();
   const [form, setForm] = useState({
@@ -25,18 +31,17 @@ const Contact = () => {
     e.preventDefault();
     setLoading(true);
 
-    emailjs
-      .send(
-        "service_r0jcplm",
-        "template_1t76uxq",
+    emailjs.send(
+        "service_0p8zcz7",
+        "template_cfnalal",
         {
           form_name: form.name,
-          to_name: "Liron",
+          to_name: "Sachin",
           from_email: form.email,
-          to_email: "contact@mail.com",
+          to_email: "sachingurh@gmail.com",
           message: form.message,
         },
-        "Jqq9AvwIuSjoMiA5c"
+        "LXn0mfDHueflG128c"
       )
       .then(
         () => {
@@ -53,7 +58,7 @@ const Contact = () => {
           setLoading(false);
 
           console.log(error);
-          alert("Something went wrong.");
+          alert("Something went wrong." ,error );
         }
       );
   };
