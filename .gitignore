@@ -19,11 +19,6 @@ node_modules/
 .vscode/
 *.iml
 
-# Ignore build output
-# /build/
-# /dist/
-# /out/
-# /.next/
 
 # Ignore environment-specific files
 .env
@@ -36,3 +31,6 @@ node_modules/
 # Ignore sensitive or personal information
 secrets.txt
 credentials.json
+
+#ignore file
+/for domain
